@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
+- **Nombre completo**: Pablo Brito Ch
+- **Carrera**: Tec en Desarrollo de Software
 - **Fecha de entrega**: _____________________________
 
 ---
